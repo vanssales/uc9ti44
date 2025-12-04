@@ -1,4 +1,8 @@
 # uc9ti44
 
 EStou na aula esse vai ser meu commit
+quando da erro de não configurar o user do git, você deve ver no git log os seguintes comandos:
 
+git config --global user.email "vanssales@gmail.com"
+
+git config --global user.name "Vanessa Sales"
