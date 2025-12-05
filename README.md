@@ -12,3 +12,5 @@ git config --global user.name "Vanessa Sales"
 oioi
 
 oi bom noite muita coisa
+
+Uma branch foi publicada!  hohje 05/12/25
