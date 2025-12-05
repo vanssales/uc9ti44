@@ -8,3 +8,6 @@ quando da erro de não configurar o user do git, você deve ver no git log os se
 git config --global user.email "vanssales@gmail.com"
 
 git config --global user.name "Vanessa Sales"
+
+
+Esse branche é na main. Para saber que é na principal.
